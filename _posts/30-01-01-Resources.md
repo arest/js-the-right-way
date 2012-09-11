@@ -13,7 +13,10 @@
 ## People to follow
 
 * [Brendan Eich](http://brendaneich.com/)
+* [Douglas Crockford](http://www.crockford.com/)
+* [John Resig](http://ejohn.org/)
 * [Isaac Schlueter (node.js)](http://izs.me)
+* [Addy Osmani](http://addyosmani.com)
 * [Richard D. Worth](http://rdworth.org/blog/)
 * [Fat (Twitter Bootstrap)](http://byfat.xxx/)
 * [Michal Budzynski](http://michalbe.blogspot.com.br/)
