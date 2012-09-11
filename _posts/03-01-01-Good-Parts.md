@@ -1,13 +1,13 @@
 # Good Parts
 
-* ## Object Oriented
+* Object Oriented
 
-* ## Anonymous Functions
+* Anonymous Functions
 
-* ## Functions as First-class Objects
+* Functions as First-class Objects
 
-* ## Loose Typing
+* Loose Typing
 
-* ## Dynamic Objects
+* Dynamic Objects
 
-* ## Expressive Object Literal Notation
+* Expressive Object Literal Notation
